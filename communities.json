@@ -44,7 +44,16 @@
     "Events": "https://gdsc.community.dev/technical-university-of-kenya/",
     "Telegram": "#"
   },
-  
+  {
+    "id": "TUK-IoT",
+    "Sponsor": "TUK IoT Club",
+    "Name": "TUK-IoT",
+    "Desc": "We are a Community of student developers interested in learning and creating solutions to Societal problems using IoT Technology 
+    "Events": "#",
+    "Telegram": "#"
+    "Twitter": "iot_tuk"
+    
+  },
   {
     "id": "gophers",
     "Sponsor": "Community",
